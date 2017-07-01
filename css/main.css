@@ -34,3 +34,7 @@ footer {
   max-width: 50px;
   margin-right: 20px;
 }
+
+figure {
+  margin: 0;
+}
